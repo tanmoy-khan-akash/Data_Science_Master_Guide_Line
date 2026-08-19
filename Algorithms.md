@@ -1,6 +1,6 @@
-# Algorithms
-
-These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
+# Algorithms 
+#### These are some Machine Learning and Data Mining algorithms and models that help you to understand your data and derive meaning from it. 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Supervised Learning
 
@@ -22,25 +22,29 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - Bagging
 - Random Forest
 - AdaBoost
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Unsupervised Learning
 
 - Clustering
-  - Hierchical clustering
+  - Hierarchical clustering 
   - k-means
   - Fuzzy clustering
   - Mixture models
 - Neural Networks
 - Self-organizing map
 - Adaptive resonance theory
+------------------------------------------------------------------------------------------------------------------------------------------
 
-### Semi-Supervised Learning
+### Semi-Supervised Learning 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Reinforcement Learning
 
-- Q Learning
+- Q - Learning
 - SARSA (State-Action-Reward-State-Action) algorithm
 - Temporal difference learning
+------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Data Mining Algorithms
 
@@ -54,5 +58,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - kNN
 - Naive Bayes
 - CART
+------------------------------------------------------------------------------------------------------------------------------------------
+#### Also, you can find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily. 
+------------------------------------------------------------------------------------------------------------------------------------------
 
-**Also, you can find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily. **
+These resources are perfect for both beginners and advanced learners. 
