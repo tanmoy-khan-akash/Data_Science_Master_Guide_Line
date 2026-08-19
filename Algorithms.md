@@ -59,7 +59,7 @@
 - Naive Bayes
 - CART
 ------------------------------------------------------------------------------------------------------------------------------------------
-#### Also, you can find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily. 
+#### Also, you can find most data mining algorithms in [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) program easily.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 These resources are perfect for both beginners and advanced learners. 
