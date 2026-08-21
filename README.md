@@ -1,9 +1,22 @@
-# Awesome Data Science [![Awesome](https://github.com/tanmoy-khan-akash/Awesome/blob/main/Media/Badge.svg)](https://github.com/tanmoy-khan-akash/Awesome)
-
-- ** An open-source Data Science repository to learn and apply towards solving real-world problems. **
+<div align="center">
+ <h1><a>Awesome Data Science</a></h1>
+  <img width="250" height="250" src="Logo.svg">
+</div>
+ 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-### Table of contents
+<div align="center">
+ <p align="center">
+ <h2>** An open-source Data Science repository to learn and apply towards solving real-world problems. **</h2>
+ <br>
+	<a>Just go here and follow me on <a href="https://www.instagram.com/tanmoy_khan_akash">Instagram</a>.
+ </p>
+</div>
+<br> 
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+### Table of Contents
 
 * [Motivation](#motivation)
 * [Infographic](#infographic)
