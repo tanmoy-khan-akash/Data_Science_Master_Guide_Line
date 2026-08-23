@@ -1,5 +1,5 @@
 <div align="center">
- <h1><a>Awesome Data Science</a></h1>
+ <h1><a>Data Science Master Guide Line</a></h1>
   <img width="250" height="250" src="Logo.svg">
 </div>
  
