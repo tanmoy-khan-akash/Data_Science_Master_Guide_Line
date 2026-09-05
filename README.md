@@ -596,7 +596,7 @@ interactive data analytics and collaborative documents with SQL, Scala and more
  - [Lists](https://github.com/jnv/lists)
  - [Awesome-dataviz](https://github.com/fasouto/awesome-dataviz)
  - [Awesome-python](https://github.com/vinta/awesome-python)
- - [Data Science IPython Notebooks.](https://github.com/donnemartin/data-science-ipython-notebooks)
+ - [Data Science IPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [Awesome-r](https://github.com/qinwf/awesome-R)
  - [Awesome-datasets](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [Awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
